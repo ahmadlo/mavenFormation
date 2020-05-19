@@ -25,10 +25,6 @@
             <groupId>com.ahmadou.demomaven</groupId>
             <artifactId>monappli-dao</artifactId>
         </dependency>
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-core</artifactId>
-            <version>3.2.2.RELEASE</version>
-        </dependency>
+       
     </dependencies>
 </project>
