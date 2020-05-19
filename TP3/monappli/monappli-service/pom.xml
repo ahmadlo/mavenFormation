@@ -7,7 +7,7 @@
     <artifactId>monappli</artifactId>
     <version>1.0-SNAPSHOT</version>
   </parent>
-  <groupId>com.objis.demomaven</groupId>
+  <groupId>com.ahmadou.demomaven</groupId>
   <artifactId>monappli-service</artifactId>
   <version>1.0-SNAPSHOT</version>
   <name>monappli-service</name>
